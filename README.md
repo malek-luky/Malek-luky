@@ -16,6 +16,7 @@ So far, I have mastered these programming languages:<br>
 ✔️ VHDL<br>
 
 Currently, I specialise in<br>
+✔️ Algorithmic Trading<br>
 ✔️ Artificial Intelligence<br>
 ✔️ RTOS Nuttx<br>
 ✔️ Thrust Vector Control for Model Rocketry<br>
