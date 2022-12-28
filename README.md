@@ -13,7 +13,7 @@ So far, I have mastered these programming languages:<br>
 ✔️ Python<br>
 ✔️ C<br>
 ✔️ Matlab<br>
-✔️ VHDL<br>
+✔️ Julia (WIP)<br>
 
 Currently, I specialise in<br>
 ✔️ Algorithmic Trading<br>
